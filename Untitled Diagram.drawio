@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T06:52:41.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="s2iXHq4oi3AuKak8Ku22" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-27T06:53:11.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="kxGevVaI-xxwqKzBRFx2" version="18.1.2" type="github">
   <diagram id="55co5RUvgZGQ32LennhQ" name="Page-1">
-    <mxGraphModel dx="1038" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="330" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GzrXEMnkMh97mQSUw474-16" value="&lt;h1 style=&quot;font-size: 22px; line-height: 0.7;&quot;&gt;ICP ON CHAIN UML SCHEMA&lt;/h1&gt;&lt;p&gt;Canister list for the frontend and the backend.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" width="410" height="70" as="geometry" />
+          <mxGeometry x="40" y="10" width="410" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
