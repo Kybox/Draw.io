@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T16:02:16.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="taUKmkNNGYVIkMj2mtZd" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T16:07:12.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="Q4QzTHl-I8-KBejFlDnS" version="20.0.4" type="github">
   <diagram id="-E4rqIcrRXrwPLXp2Tc1" name="Page-1">
-    <mxGraphModel dx="1422" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="1686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,14 +97,14 @@
         <mxCell id="-_ocpUVoCZEyNk-bwwx2-31" value="LEGEND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="860" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-_ocpUVoCZEyNk-bwwx2-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;strokeWidth=1;" edge="1" parent="1" source="-_ocpUVoCZEyNk-bwwx2-32" target="-_ocpUVoCZEyNk-bwwx2-47">
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffcd28;gradientColor=#ffa500;" edge="1" parent="1" source="-_ocpUVoCZEyNk-bwwx2-32" target="-_ocpUVoCZEyNk-bwwx2-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="825" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-_ocpUVoCZEyNk-bwwx2-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;strokeWidth=1;" edge="1" parent="1" source="-_ocpUVoCZEyNk-bwwx2-32" target="-_ocpUVoCZEyNk-bwwx2-46">
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffcd28;gradientColor=#ffa500;" edge="1" parent="1" source="-_ocpUVoCZEyNk-bwwx2-32" target="-_ocpUVoCZEyNk-bwwx2-46">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="825" y="560" />
@@ -119,6 +119,13 @@
         </mxCell>
         <mxCell id="-_ocpUVoCZEyNk-bwwx2-40" value="RESPONDER STEPS" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="630" y="960" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffcd28;gradientColor=#ffa500;" edge="1" parent="1" source="-_ocpUVoCZEyNk-bwwx2-42" target="-_ocpUVoCZEyNk-bwwx2-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1315" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-_ocpUVoCZEyNk-bwwx2-42" value="REQUESTER" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="1300" y="585" width="30" height="60" as="geometry" />
@@ -154,6 +161,24 @@
         </mxCell>
         <mxCell id="-_ocpUVoCZEyNk-bwwx2-49" value="DRAFT RESOLUTION" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffcd28;gradientColor=#ffa500;" edge="1" parent="1" source="-_ocpUVoCZEyNk-bwwx2-80" target="-_ocpUVoCZEyNk-bwwx2-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-80" value="SELECT A RESPONDER AND PAY HIM WITH CUSTOM TOKENS" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-82" value="SELECT A RESPONDER AND PAY HIM WITH CUSTOM TOKENS" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3399FF;strokeWidth=1;" edge="1" parent="1" source="-_ocpUVoCZEyNk-bwwx2-86" target="-_ocpUVoCZEyNk-bwwx2-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-86" value="RESPONDER" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-88" value="DRAFT RESOLUTION" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
