@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T17:50:43.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="-2Zcv8AGYbFHwQpXmpPV" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T17:52:36.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="0-eMid8Keevc9SLK6ymg" version="20.0.4" type="github">
   <diagram id="-E4rqIcrRXrwPLXp2Tc1" name="Page-1">
     <mxGraphModel dx="1422" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,10 +78,10 @@
         <mxCell id="-_ocpUVoCZEyNk-bwwx2-32" value="ISSUE EXPOSED" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="765" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-_ocpUVoCZEyNk-bwwx2-39" value="REQUESTER STEPS" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-39" value="REQUESTER STEP" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="59" y="190" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-_ocpUVoCZEyNk-bwwx2-40" value="RESPONDER STEPS" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
+        <mxCell id="-_ocpUVoCZEyNk-bwwx2-40" value="RESPONDER STEP" style="whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="59" y="220" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-_ocpUVoCZEyNk-bwwx2-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffcd28;gradientColor=#ffa500;" parent="1" source="-_ocpUVoCZEyNk-bwwx2-42" target="-_ocpUVoCZEyNk-bwwx2-80" edge="1">
@@ -221,7 +221,7 @@
         <mxCell id="-_ocpUVoCZEyNk-bwwx2-117" value="TOKENOMICS &amp;amp; DAPP FUNCTIONAL LIFE CYCLE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#F2F2F2;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry y="40" width="1390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-1" value="MOTOKO&lt;br&gt;CANISTER" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-1" value="MOTOKO&lt;br&gt;CANISTER&lt;br&gt;HOSTED ON&lt;br&gt;THE ICP&lt;br&gt;BLOCKCHAIN" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="75" y="1210" width="155" height="201" as="geometry" />
         </mxCell>
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-6" value="PUBLIC TOKEN MANAGER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
