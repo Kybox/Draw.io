@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T17:40:03.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="4BOum9d2eTI26pX8I0bp" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T17:44:51.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="rc7f37rl-Cff1rEWl3Ma" version="20.0.4" type="github">
   <diagram id="-E4rqIcrRXrwPLXp2Tc1" name="Page-1">
     <mxGraphModel dx="1422" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,10 +219,10 @@
           <mxGeometry y="40" width="1390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-1" value="MOTOKO&lt;br&gt;CANISTER" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1209" width="90" height="100" as="geometry" />
+          <mxGeometry x="600" y="1260" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-6" value="PUBLIC TOKEN MANAGER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1169" width="370" height="180" as="geometry" />
+          <mxGeometry x="820" y="1270" width="370" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-7" value="getUserAccount(Principal): Result&lt;UserAccount, Text&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ue3m3ns21DTPb-Fn_mAA-6">
           <mxGeometry y="30" width="370" height="30" as="geometry" />
@@ -246,7 +246,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-14" value="PUBLIC ISSUE MANAGER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1169" width="415" height="150" as="geometry" />
+          <mxGeometry x="350" y="1430" width="415" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-15" value="create(Principal, IssueType): Result&lt;UserIssueList, Text&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ue3m3ns21DTPb-Fn_mAA-14">
           <mxGeometry y="30" width="415" height="30" as="geometry" />
@@ -259,6 +259,30 @@
         </mxCell>
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-18" value="rateSolver&lt;Principal, IssueType): Result&lt;UserIssueList, Text&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ue3m3ns21DTPb-Fn_mAA-14">
           <mxGeometry y="120" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Ue3m3ns21DTPb-Fn_mAA-14" target="Ue3m3ns21DTPb-Fn_mAA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1510" as="sourcePoint" />
+            <mxPoint x="730" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-21" value="PRIVATE TOKEN MANAGER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1510" width="415" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-22" value="tradeToken(Principal, tradeType): Result&lt;Text, Text&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ue3m3ns21DTPb-Fn_mAA-21">
+          <mxGeometry y="30" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-24" value="withdraw(Principal, Nat, TokenType): Result&lt;BalanceType, Text&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ue3m3ns21DTPb-Fn_mAA-21">
+          <mxGeometry y="60" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-25" value="deposite(Principal, Nat, TokenType): Result&lt;BalanceType, Text&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ue3m3ns21DTPb-Fn_mAA-21">
+          <mxGeometry y="90" width="415" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Ue3m3ns21DTPb-Fn_mAA-21" target="Ue3m3ns21DTPb-Fn_mAA-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1510" as="sourcePoint" />
+            <mxPoint x="730" y="1460" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
