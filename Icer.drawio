@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T11:17:12.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="kg07gWjbHPx8L4SarPXT" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T11:19:56.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="u9JAN444DJMCxThYsj2m" version="20.0.4" type="github">
   <diagram id="-E4rqIcrRXrwPLXp2Tc1" name="Page-1">
     <mxGraphModel dx="1896" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -464,7 +464,7 @@
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-101" value="FRANCE IS NOT THE BEST CHOICE WITH THE EU CRYPTO POLICIES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="1007" y="1910" width="210" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-103" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;2 developers -&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;1 marketing manager -&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;1 accountant -&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#F2F2F2;fillColor=#f5f5f5;strokeColor=#666666;align=right;spacingRight=13;" vertex="1" parent="1">
+        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-103" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;1 developer -&lt;br&gt;1 marketing illustrator -&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;1 marketing manager -&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;1 accountant -&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;gradientColor=#F2F2F2;fillColor=#f5f5f5;strokeColor=#666666;align=right;spacingRight=13;" vertex="1" parent="1">
           <mxGeometry x="2293.25" y="1800" width="256.75" height="110" as="geometry" />
         </mxCell>
       </root>
