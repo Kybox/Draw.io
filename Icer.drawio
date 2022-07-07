@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T11:15:59.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="nuC4PHe2IMVPq0a3aN6p" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-07T11:17:12.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="kg07gWjbHPx8L4SarPXT" version="20.0.4" type="github">
   <diagram id="-E4rqIcrRXrwPLXp2Tc1" name="Page-1">
     <mxGraphModel dx="1896" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -452,8 +452,8 @@
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-93" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FINAL PROFIT ESTIMATION&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1898.25" y="2045" width="261.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-96" value="? What about :&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- french gov. taxes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- workplace (rent)&lt;br&gt;- water, electricity&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=27;gradientColor=#F2F2F2;size=0.034375;" vertex="1" parent="1">
-          <mxGeometry x="1273.5" y="2065" width="480" height="150" as="geometry" />
+        <mxCell id="Ue3m3ns21DTPb-Fn_mAA-96" value="? What about :&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;strike&gt;&lt;font color=&quot;#ff6666&quot;&gt;- french gov. taxes&lt;/font&gt;&lt;/strike&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- workplace (rent)&lt;br&gt;- water, electricity&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=27;gradientColor=#F2F2F2;size=0.034375;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="2065" width="480" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Ue3m3ns21DTPb-Fn_mAA-100" value="" style="endArrow=classic;html=1;rounded=0;fontSize=27;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
